@@ -1,0 +1,7 @@
+{
+  "name": "wks-vue1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
